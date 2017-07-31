@@ -1,2 +1,3 @@
-# auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+# GraphQL with React (Authentication and Authorization)
+## Server Side
+## Client Side
