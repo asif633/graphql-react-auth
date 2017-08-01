@@ -40,7 +40,7 @@ app.use(session({
   saveUninitialized: true,
   secret: 'aaabbbccc',
   store: new MongoStore({
-    url: MONGO_URI,
+    url: mongodbUri,
     autoReconnect: true
   })
 }));
